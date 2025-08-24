@@ -1,4 +1,4 @@
-#AI SkillBridge – Student Outreach Automation
+**AI SkillBridge – Student Outreach Automation**
 
 Automated email campaign workflow built with n8n to help AI SkillBridge reach students about our free AI bootcamps.
 This workflow personalizes outreach, sends automatic follow-ups, and stops sending once a student replies.
